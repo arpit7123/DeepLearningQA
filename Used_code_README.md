@@ -1,3 +1,5 @@
+This is readme file for the code used in this project. The coe was produced as part of a published paper by the authors. Details of the authors are as available below.
+
 ## Convolutional Neural Networks for Sentence Classification
 Code for the paper [Convolutional Neural Networks for Sentence Classification](http://arxiv.org/abs/1408.5882) (EMNLP 2014).
 
